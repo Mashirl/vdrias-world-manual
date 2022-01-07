@@ -1,0 +1,23 @@
+{
+  "name": "vdrias-world-manual",
+  "version": "1.0.0",
+  "description": "Vdrias World Player Manual",
+  "main": "index.js",
+  "homepage": "https://manual.vdrias.cn",
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdriasworld/manual.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vdriasworld/manual/issues"
+  },
+  "author": "vdriasworld",
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.32"
+  }
+}
